@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+
+accounts:
+  message: "Welcome to bank application PROD"
+  contactDetails:
+    name: "Elshan"
+    age: "21"
+  phone:
+    "555 55 55"

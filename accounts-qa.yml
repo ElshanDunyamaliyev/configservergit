@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to bank application QA"
+  contactDetails:
+    name: "Elshan"
+    age: "21"
+  phone:
+    "555 55 55"
+

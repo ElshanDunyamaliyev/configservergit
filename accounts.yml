@@ -1,0 +1,13 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to bank application"
+  contactDetails:
+    name: "Elshan"
+    age: "21"
+  phone:
+    "555 55 55"
+
+
+
