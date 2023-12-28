@@ -3,9 +3,9 @@ build:
 
 
 accounts:
-  message: "Welcome to bank application PROD"
+  message: "Welcome to bank application prod latest 2"
   contactDetails:
     name: "Elshan"
-    age: "21"
+    email: "{cipher}d64108f658a706e461678f5e6c043c9a2ece26b6c342964e7b2f3c4feb58dd23"
   phone:
     "555 55 55"
